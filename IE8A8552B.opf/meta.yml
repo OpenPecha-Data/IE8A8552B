@@ -1,0 +1,26 @@
+id: IE8A8552B
+default_language: bo
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 18:00:59.988996+00:00
+last_modified: 2022-12-14 18:00:59.989004+00:00
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-061-017
+  eft-text-version: 1.18.4 2020
+  title: Toh_197-The_Nectar_of_Speech-v2
+bases:
+  6AA1:
+    source_metadata: null
+    order: 1
+    base_file: 6AA1.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
